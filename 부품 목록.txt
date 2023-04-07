@@ -1,0 +1,21 @@
+부품 목록
+모터 구매 사이트 : https://www.motorbank.kr/goods/goods_list.php?cateCd=040001002
+단위 환산 사이트 : https://www.inaom.co.kr/support/support.do
+
+
+
+1. 모터
+- VTS -19 (서보 모터) 44,000원 * 2 = 88,000원
+- 마부치 DC 모터 RS-755VC-4052 21,800원*2 = 43,600원
+
+2. 카메라
+- 30W Pixel USB2.0 OV7675 Camera Module 13,400원*2 = 26,800원
+- 4K USB 웹캠 모듈 HD 8MP IMX415 소니 CCD 센서 50,113원
+
+3. 타이밍 벨트
+- 1m : 2,300원 *7 = 16,100원 
+
+4. 제어 보드
+100W 급 단방향 DC모터 드라이버 (DCMD-100-A-OD) 18,000원
+오랜지 보드 24,200원
+스텝모터 쉴드 47,500원

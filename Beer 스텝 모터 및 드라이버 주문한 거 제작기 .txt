@@ -1,0 +1,27 @@
+< Beer 스텝 모터 및 드라이버 주문한 거 제작기 >
+
+1. https://zifmfmphantom.tistory.com/143
+
+2. https://blog.naver.com/roboholic84/220851897579
+
+3. https://www.hwlibre.com/ko/%EB%8B%88%EB%A7%88-17/
+
+	1 아두이노 1개
+	2 아두이노 전원 케이블 2개
+	3 모터 커플링(5mm-5mm제품 ) 1개
+	4 플렌지 베어링(내경5mm, 외경14mm) 3개
+	5 8Ø 연마봉 6개
+	5 6Ø 연마봉 1개 ( 실제랑 1Ø 큼 , 따라서 베어링은 줄이고, 카플링은 늘림 )
+	6 볼 베어링(내경 8mm, 외경 15mm, 길이 45mm) 6개
+
+볼트 : 5mm, 70mm, 너트 : 5mm
+12V 전원 : 모터 전원 알아보고 고르기 2개
+DC어댑터 암컷 잭	2개 ( 필요성 따지기 )
+
+
+< 현 구매 목록 >
+
+1. NEMA17 고급형 스텝 모터 종결자 모음 3D프린터 로봇 스테퍼 스테핑 네마17 42각
+2. GT2 타이밍 벨트 열린타입 1m DM2474
+3. 아두이노 L298N 스테핑모터 모터 드라이버
+4. Arducam 4K 8MP IMX219 Autofocus USB Camera Module with Metal Case 
